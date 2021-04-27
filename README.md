@@ -1,2 +1,4 @@
 # Interest-Calculator-APP
-Simple interest calculator app that features fully functional spinner boxes, drop-down box, and a label that displays the calculated amount.
+- This is a simple interest calculation application, nothing special.
+
+- It takes the principal amount, rate applied, years entered, and calculates money growth over that period of time using the formula (principal * (1 + (rate / 100.0)) ** years)
